@@ -1,0 +1,9 @@
+.effect-fade {
+  opacity: 0;
+  transform: translate(0, 100px); /* フェードインで動く高さを指定 */
+  transition: all 2000ms; /* フェードインにかかる時間を指定 */
+}
+.effect-scroll {
+  opacity: 1;
+  transform: translate(0, 0);
+}
