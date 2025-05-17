@@ -605,11 +605,8 @@ textarea {
 /* ----------------media */
 
 @media screen and (max-width: 768px) {
-  .wrapper {width: 100%;
-            padding: 20px;}
-  .section {width: 100%;
-            flex-direction: column-reverse;
-            padding: 0;}
+  .wrapper {width: 100%;}
+  .section {width: 100%;}
 }
 
 @media screen and (max-width: 480px) {
@@ -617,7 +614,5 @@ textarea {
     width: 100%;
     font-size: 1.25rem;
     padding: 20px;}
-  .section {width: 100%;
-            flex-direction: column-reverse;
-            padding: 0;}
+  .section {width: 100%;}
 }
