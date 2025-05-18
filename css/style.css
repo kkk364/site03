@@ -271,7 +271,7 @@ flex-wrap: wrap;
 
 footer {
   padding: 40px 20px;
-  background-image: url(https://github.com/kkk364/site03/blob/main/images/footer.png?raw=true);
+  background-image: url(../images/footer.png);
   background-repeat: no-repeat;
   background-size: cover;
   height: 300px;
